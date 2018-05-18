@@ -1,0 +1,6 @@
+
+[2018-05-14 21-03-04] Function: "__main__.tst_func" called with:
+    -> positional arguments: (2, 2)
+    -> keyword arguments:    {}
+Returns: 4
+    

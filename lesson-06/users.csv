@@ -1,0 +1,3 @@
+id,name,skills,is_developer
+1,Linus Torvalds,"('C', 'C++', 'Linux')",True
+2,Richard Stallman,"('C', 'C++', 'GNU')",True
